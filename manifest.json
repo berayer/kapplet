@@ -1,0 +1,6 @@
+{
+  "name": "vue-ts",
+  "version": "1.0.0",
+  "frame": "index.html",
+  "main": "src/vm/main.ts"
+}
